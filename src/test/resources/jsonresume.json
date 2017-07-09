@@ -1,0 +1,39 @@
+{
+  "basics" : {
+    "name" : "Chris Wyse",
+    "label" : "java Developer",
+    "email" : "chris@brightcandidate.com",
+    "phone" : "555-5555",
+    "url" : "https:www.brightcandidate.com",
+    "summary" : "Anachronistic Java Developer",
+    "location" : {
+      "address" : "22 Arcacia Avenue",
+      "postalCode" : "666",
+      "city" : "Ventura",
+      "countryCode" : "US",
+      "region" : "West"
+    },
+    "profiles" : [ {
+      "network" : "LinkedIn",
+      "username" : "Chris Wyse",
+      "url" : "https://www.linkedin.com/in/chris-wyse-a1764a23/"
+    } ]
+  },
+  "work" : [ {
+    "name" : "Bright Candidate",
+    "description" : "Self-recruiting marketplace for candidates and employers",
+    "position" : "Co-Founder",
+    "url" : "https://www.brightcandidate.com",
+    "startDate" : "2014-08-01",
+    "summary" : "An awesome idea, please join us.",
+    "highlights" : [ "Created a totally new product and class of service in employment." ]
+  } ],
+  "education" : [ {
+    "institution" : "North Carolina State University",
+    "area" : "Computer Science",
+    "studyType" : "Bachelors",
+    "startDate" : "1998-10-12",
+    "endDate" : "2002-09-12",
+    "courses" : [ "Cyber Security", "Data Visualization", "Machine Learning" ]
+  } ]
+}

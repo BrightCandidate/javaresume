@@ -1,0 +1,17 @@
+{
+  "name": "javaresume",
+  "version": "1.0.0",
+  "description": "Java tools and classes around jsonresume",
+  "scripts": {
+    "test": "node ./test/testvalid.js | tap-spec"
+  },
+  "author": "chris@brightcandidate.com",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "resume-schema": "0.0.16"
+  },
+  "devDependencies": {
+    "tap-spec": "^4.1.1",
+    "tape": "^4.7.0"
+  }
+}
